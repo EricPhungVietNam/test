@@ -1,3 +1,4 @@
 # bỏ qua file3
 file3.ts
 *.md
+!file6.md
